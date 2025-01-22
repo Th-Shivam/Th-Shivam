@@ -24,7 +24,7 @@ I'm a passionate developer who thrives on turning innovative ideas into reality 
 - 🔭 Currently working on **Innovative Web Projects**
 - 🌱 Learning **Advanced JavaScript & System Design**
 - 💡 Open to collaborating on **Open Source Projects**
-- 💬 Ask me about **Web Development, Java, Python**
+- 💬 Ask me about **Web Development , Python**
 - ⚡ Fun fact: I debug with coffee ☕
 
 <br/>
@@ -35,7 +35,6 @@ I'm a passionate developer who thrives on turning innovative ideas into reality 
   
   ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
   ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-  ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
   ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
   ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
   ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
