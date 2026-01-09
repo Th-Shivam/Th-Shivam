@@ -135,8 +135,8 @@ Hey there! 👋 I'm Shivam, a passionate developer who believes in the power of 
 
 <div align="center">
   
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=th-shivam&repo=VYOM&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=36BCF7&text_color=ffffff)](https://github.com/th-shivam/your-repo-name)
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=th-shivam&repo=RTDS&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=36BCF7&text_color=ffffff)](https://github.com/th-shivam/another-repo)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=th-shivam&repo=VYOM&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=36BCF7&text_color=ffffff)](https://github.com/th-shivam/vyom)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=th-shivam&repo=RTDS&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=36BCF7&text_color=ffffff)](https://github.com/th-shivam/anotnet-repo)
   
 </div>
 
@@ -166,7 +166,7 @@ const shivam = {
   [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/dreamyshivam)
   [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ryzen_shivam/)
   [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dreamyshivam01@gmail.com)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://your-portfolio-url.com)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://th-shivam.github.io/Modern_portfolio/)
   
 </div>
 
