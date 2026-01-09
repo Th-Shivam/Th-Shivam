@@ -92,6 +92,13 @@ Hey there! 👋 I'm Shivam, a passionate developer who believes in the power of 
 
 </div>
 
+## 🎖️ Holopin Badges
+
+<div align="center">
+  
+  [![@thshivam's Holopin board](https://holopin.me/thshivam)](https://holopin.io/@thshivam)
+  
+</div>
 
 ## 📊 GitHub Analytics
 
