@@ -120,6 +120,7 @@ Hey there! 👋 I'm Shivam, a passionate developer who believes in the power of 
 <div align="center">
   
   ![Coding Activity](https://github-readme-activity-graph.vercel.app/graph?username=th-shivam&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=36BCF7&line=FFD700&point=36BCF7)
+  ![CommitPulse](https://commitpulse.vercel.app/api/streak?user=th-shivam&theme=neon)
   
 </div>
 
