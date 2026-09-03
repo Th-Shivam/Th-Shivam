@@ -23,20 +23,73 @@ I am a Computer Science undergraduate (CGPA: 9.05/10.0) specializing in **AI/ML 
 
 ---
 
+---
+
 ## 🛠️ Technical Arsenal
 
-*Organized by domain to reflect system-level thinking.*
+### 👨‍💻 Languages
 
-| Domain | Technologies & Tools |
-| :--- | :--- |
-| **Languages** | `Python` `TypeScript` `JavaScript` `C++` `Java` `SQL` |
-| **AI / ML** | `LLMs` `AI Agents` `NLP` `Prompt Engineering` `Groq` `Gemini API` `Google ADK` |
-| **Backend** | `FastAPI` `Spring Boot` `Node.js` `REST APIs` `Async Programming` `Multithreading` |
-| **Frontend** | `React 19` `React.js` `Tailwind CSS` `Vite` |
-| **Cloud & DB** | `AWS Lambda` `API Gateway` `DynamoDB` `EventBridge` `PostgreSQL` `MongoDB` `Supabase` |
-| **DevOps & Tools** | `Git` `GitHub` `Linux` `Vercel` `Clerk` `Appwrite` `Jupyter` |
+<p>
+  <img src="https://skillicons.dev/icons?i=python,typescript,javascript,cpp,java" height="45" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" height="45" />
+</p>
 
----
+### 🤖 AI / ML
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python" height="45" />
+  <img src="https://img.shields.io/badge/LLMs-412991?style=flat-square&logo=openai&logoColor=white" height="45" />
+  <img src="https://img.shields.io/badge/AI%20Agents-FF6F00?style=flat-square&logo=robotframework&logoColor=white" height="45" />
+  <img src="https://img.shields.io/badge/NLP-4285F4?style=flat-square&logo=google&logoColor=white" height="45" />
+  <img src="https://img.shields.io/badge/Gemini%20API-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" height="45" />
+  <img src="https://img.shields.io/badge/Groq-F55036?style=flat-square&logo=groq&logoColor=white" height="45" />
+  <img src="https://img.shields.io/badge/Google%20ADK-4285F4?style=flat-square&logo=google&logoColor=white" height="45" />
+</p>
+
+### ⚙️ Backend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=spring,nodejs" height="45" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" height="45" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/REST%20APIs-02569B?style=flat-square&logo=postman&logoColor=white" height="32" />
+  <img src="https://img.shields.io/badge/Async%20Programming-6C3483?style=flat-square&logo=python&logoColor=white" height="32" />
+  <img src="https://img.shields.io/badge/Multithreading-37474F?style=flat-square&logo=linux&logoColor=white" height="32" />
+  <img src="https://img.shields.io/badge/Concurrency-455A64?style=flat-square&logo=go&logoColor=white" height="32" />
+</p>
+
+### 🎨 Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,vite,tailwind,html,css" height="45" />
+</p>
+
+### ☁️ Cloud & Databases
+
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,mongodb,postgres,supabase,vercel" height="45" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/AWS%20Lambda-FF9900?style=flat-square&logo=awslambda&logoColor=white" height="32" />
+  <img src="https://img.shields.io/badge/API%20Gateway-FF4F8B?style=flat-square&logo=amazonapigateway&logoColor=white" height="32" />
+  <img src="https://img.shields.io/badge/DynamoDB-4053D6?style=flat-square&logo=amazondynamodb&logoColor=white" height="32" />
+  <img src="https://img.shields.io/badge/EventBridge-FF4F8B?style=flat-square&logo=amazonaws&logoColor=white" height="32" />
+</p>
+
+### 🔧 DevOps & Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,linux,docker,vscode,jupyter" height="45" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" height="32" />
+  <img src="https://img.shields.io/badge/Clerk-6C47FF?style=flat-square&logo=clerk&logoColor=white" height="32" />
+  <img src="https://img.shields.io/badge/Appwrite-F02E65?style=flat-square&logo=appwrite&logoColor=white" height="32" />
+</p>
 
 ## 🚀 Featured Projects
 
