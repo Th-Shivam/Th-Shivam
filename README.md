@@ -1,6 +1,5 @@
 <div align="center">
-
-<img src="./assets/hero-th-shivam-github.png" width="100%" alt="Shivam Singh">
+<img src="./assets/hero-readme.png" width="100%" alt="Shivam Singh">
 
 </div>
 
