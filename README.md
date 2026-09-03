@@ -10,16 +10,9 @@
 
 `@th-shivam`
 
-# Shivam Singh
-
-**engineer · ai/ ml · full stack · open source**
-
-building intelligent systems, scalable backends,  
-and products that solve real problems.
-
-[linkedin](https://www.linkedin.com/in/shivam-singh-352492310) ·
+[linkedin](https://www.linkedin.com/in/ryzenshivam) ·
 [github](https://github.com/th-shivam) ·
-[portfolio](https://th-shivam.github.io/Modern_portfolio/) ·
+[portfolio](https://www.thakurshivamsingh.me) ·
 [email](mailto:anotnet.shivam@gmail.com)
 
 </div>
@@ -30,7 +23,7 @@ and products that solve real problems.
 
 ## about
 
-i'm a computer science undergraduate at **VIT Bhopal**.
+i'm a computer science undergraduate at **Vellore Institute of Technology**.
 
 i enjoy working at the intersection of **software engineering and artificial
 intelligence** — building everything from multi-agent systems and voice
