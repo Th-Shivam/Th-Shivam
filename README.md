@@ -39,58 +39,78 @@ currently exploring:
 
 ## things i've built
 
-### `reacher`
+<br>
 
-**agentic ai · full stack · automation**
+### `reacher` — agentic cold outreach engine
 
-an AI-powered cold outreach engine designed to automate the repetitive parts
-of job applications and recruiter outreach.
+`agentic ai` `full stack` `automation`
 
-a multi-agent pipeline handles:
+An AI-powered outreach engine that automates the repetitive parts of job
+applications and recruiter outreach.
 
+**pipeline**
 `job description → candidate profile → writer → reviewer`
 
-built with **Google ADK + Gemini**, FastAPI, React 19, TypeScript,
-MongoDB/Appwrite, Clerk and Gmail APIs.
+**built with**
+<img src="https://skillicons.dev/icons?i=fastapi,react,typescript,mongodb" height="32">
+
+`Google ADK` · `Gemini API` · `Clerk` · `Gmail API` · `Appwrite`
 
 **→ 80% reduction in manual outreach effort**
 
 [repository ↗](https://github.com/th-shivam/reacher)
 
+<br>
+
 ---
 
-### `issuepilot`
+<br>
 
-**serverless · aws · open source**
+### `issuepilot` — serverless issue discovery platform
 
-a cloud-native platform for discovering beginner-friendly GitHub issues.
+`serverless` `aws` `open source`
 
-built around an event-driven architecture:
+A cloud-native platform for discovering beginner-friendly GitHub issues.
 
+**pipeline**
 `eventbridge → lambda → github api → dynamodb → api`
 
-includes GitHub OAuth, API throttling, scheduled data synchronization and
-automated deployment through Vercel.
+**built with**
+<img src="https://skillicons.dev/icons?i=aws,react,vercel" height="32">
 
-**→ 100 req/s throughput · 200 request burst**
+`Lambda` · `API Gateway` · `DynamoDB` · `EventBridge` · `Supabase Auth`
+
+**→ 100 req/s throughput · 200 request burst capacity**
 
 [repository ↗](https://github.com/th-shivam/issuepilot)
 
+<br>
+
 ---
 
-### `vyom`
+<br>
 
-**ai assistant · voice · automation**
+### `vyom` — modular AI assistant
 
-a modular personal AI assistant built in Python.
+`ai assistant` `voice` `automation`
 
-combines speech-to-text, NLP intent extraction, action routing, tool
-execution, text-to-speech, real-time search and automation.
+A modular personal AI assistant built in Python, combining speech-to-text,
+NLP intent extraction, action routing, tool execution, text-to-speech,
+real-time search and automation.
 
-designed around `asyncio` and `multithreading` to keep continuous voice
-interaction responsive.
+**pipeline**
+`speech-to-text → intent extraction → action routing → response generation`
+
+**built with**
+<img src="https://skillicons.dev/icons?i=python" height="32">
+
+`Groq` · `Cohere` · `asyncio` · `multithreading`
+
+**→ maintained by 30+ open-source contributors**
 
 [repository ↗](https://github.com/th-shivam/vyom)
+
+<br>
 
 ---
 
@@ -128,26 +148,24 @@ worked with a distributed contributor base and reviewed contributions from
 
 <br><br>
 
-### build
+### frontend & backend
 
-<img src="https://skillicons.dev/icons?i=react,vite,tailwind,spring,nodejs" height="42">
-
-<br><br>
-
-### ai
-
-`llms` · `ai agents` · `nlp` · `prompt engineering`  
-`gemini` · `groq` · `cohere` · `speech-to-text` · `text-to-speech`
+<img src="https://skillicons.dev/icons?i=react,vite,tailwind,nodejs,fastapi,spring" height="42">
 
 <br><br>
 
-### cloud
+### cloud & data
 
 <img src="https://skillicons.dev/icons?i=aws,mongodb,postgres,supabase,vercel" height="42">
 
+`lambda` · `api gateway` · `dynamodb` · `eventbridge`
+
 <br><br>
 
-`lambda` · `api gateway` · `dynamodb` · `eventbridge` · `fastapi`
+### ai / ml
+
+`llms` · `ai agents` · `nlp` · `prompt engineering`  
+`gemini` · `groq` · `cohere` · `speech-to-text` · `text-to-speech`
 
 <br><br>
 
@@ -190,3 +208,4 @@ learning       →  distributed systems + cloud security
 exploring      →  llm applications + intelligent automation
 
 looking for    →  interesting problems worth solving
+```
